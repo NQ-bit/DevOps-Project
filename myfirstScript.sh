@@ -1,7 +1,7 @@
 #This is my first command. 
 
 #Update OS 
-sudo apt update -y 
+sudo apt update
 
 #Installs MySQL
 sudo apt install mysql-server 
